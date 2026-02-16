@@ -1,0 +1,2 @@
+Average: 83.60
+Standard Deviation: 5.46
